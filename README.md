@@ -11,10 +11,10 @@ I'm web developer
 - 😄 Pronouns: she/her
 
 ## Technologies and instruments :
-<img align="left" alt="Javascript" scr="./images/javascript.png />
-<img align="left" scr="./images/nodes.png />
-<img align="left" scr="./images/react.png />
-<img align="left" scr="./images/webpack.png />
-<img align="left" scr="./images/mongodb.png />
-<img align="left" scr="./images/git.png />
-<img align="left" scr="./images/html.png />
+<img align="left" alt="Javascript" witdh="26px" src="./images/javascript.png />
+<img align="left" src="./images/nodes.png />
+<img align="left" src="./images/react.png />
+<img align="left" src="./images/webpack.png />
+<img align="left" src="./images/mongodb.png />
+<img align="left" src="./images/git.png />
+<img align="left" src="./images/html.png />
