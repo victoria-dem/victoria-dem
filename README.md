@@ -13,7 +13,7 @@ I'm web developer
 ## Technologies and instruments :
 <img align="left" alt="Javascript" witdh="26px" src="./images/javascript.png />
 <img align="left" witdh="26px" src="./images/nodes.png />
-<img align="left" witdh="26px" src="./images/react.png />
+<img align="left" witdh="26px" src="./images/react.svg />
 <img align="left" witdh="26px" src="./images/webpack.png />
 <img align="left" witdh="26px" src="./images/mongodb.png />
 <img align="left" witdh="26px" src="./images/git.png />
